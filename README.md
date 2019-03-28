@@ -7,6 +7,7 @@
  Deployed link to heroku
   https://secret-dawn-47186.herokuapp.com/
   Github link
+  https://rigelselmani.github.io/Friend-Finder/.
 
 ### Technologies used
 1. Node.js
