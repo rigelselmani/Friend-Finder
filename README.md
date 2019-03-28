@@ -5,9 +5,9 @@
  *with a "friend" that has the closest match to their personality.*
  
 
-  *Deployed link to heroku*
+ * *Deployed link to heroku*
   https://secret-dawn-47186.herokuapp.com/
-  *Github link*
+ * *Github link*
   https://rigelselmani.github.io/Friend-Finder/.
 
 ### Technologies used
