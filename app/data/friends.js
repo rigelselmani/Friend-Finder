@@ -4,7 +4,7 @@
 var friendList = [
     {
       name: 'Stut adsa',
-      profilePic: 'https://unsplash.com/photos/pNMH4SDf8us',
+      profilePic: 'https://user-images.githubusercontent.com/43711248/55131206-07866000-50f4-11e9-8258-e62517677a82.jpg',
       scores: [
         "4",
         "5",
